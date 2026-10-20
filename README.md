@@ -4,9 +4,8 @@ Uma aplicação Full-Stack (CRUD completo) para gestão de compromissos diários
 
 ## Demonstração
 
-![Dashboard com contadores e lista de compromissos](docs/dashboard.png)
 ![Formulário para criar um compromisso](docs/formulario.png)
-![Confirmação ao excluir um compromisso](docs/exclusao.png)
+
 
 ## 🚀 Tecnologias Utilizadas
 
