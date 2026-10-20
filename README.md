@@ -4,7 +4,7 @@ Uma aplicação Full-Stack (CRUD completo) para gestão de compromissos diários
 
 ## Demonstração
 
-![Formulário para criar um compromisso](docs/formulario.png)
+![Formulário para criar um compromisso](docs/formulario.png.png)
 
 
 ## 🚀 Tecnologias Utilizadas
