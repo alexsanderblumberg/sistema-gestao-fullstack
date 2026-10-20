@@ -2,6 +2,12 @@
 
 Uma aplicação Full-Stack (CRUD completo) para gestão de compromissos diários. Este projeto foi desenvolvido para demonstrar competências na criação de APIs RESTful e integração com interfaces modernas baseadas em componentes.
 
+## Demonstração
+
+![Dashboard com contadores e lista de compromissos](docs/dashboard.png)
+![Formulário para criar um compromisso](docs/formulario.png)
+![Confirmação ao excluir um compromisso](docs/exclusao.png)
+
 ## 🚀 Tecnologias Utilizadas
 
 **Front-end:**
