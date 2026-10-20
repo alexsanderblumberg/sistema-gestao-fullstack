@@ -38,3 +38,11 @@ Na pasta `frontend-gestao`:
 - Execute `npm install`
 - Execute `npm run dev`
 - Aceda a `http://localhost:5173` no seu navegador.
+
+## Autor
+
+**Alexsander Blumberg**
+
+Estudante de Análise e Desenvolvimento de Sistemas, em formação como desenvolvedor.
+
+[LinkedIn](https://www.linkedin.com/in/alexsanderblumberg/) | [GitHub](https://github.com/alexsanderblumberg)
